@@ -39,8 +39,8 @@ useEffect(() => {
               <Card className="mb-4 comics">
                 <Card.Body>
                 <Card.Img className="img-fluid" src={item.thumbnail.path + "." + item.thumbnail.extension }  />
-                    <Card.Title  className="slider_card">{item.title}</Card.Title>
-                    <p>Price: {item.prices.price}</p>
+                    <Card.Title  className="slider_card">{item.name}</Card.Title>
+                    <p>Price: {item.description }</p>
                     <a href={item.resourceURI} className='btn btn-primary'>Read more</a>
                 </Card.Body>
              </Card>
