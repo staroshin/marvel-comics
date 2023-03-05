@@ -36,12 +36,7 @@ function Header(props) {
     </div>
 
     <div class = "nav-item">
-    <NavLink to="/offers">Characters
-    </NavLink>
-    </div>
-
-     <div class = "nav-item">
-    <NavLink to="/restaurant">Events
+    <NavLink to="/characters">Characters
     </NavLink>
     </div>
 
