@@ -1,0 +1,32 @@
+.nav-tabs {
+    border-bottom: none;
+}
+
+.nav-tabs .nav-link {
+
+    border-radius: 0.25rem!important;
+
+    }
+
+
+
+
+ul.mb-3.nav.nav-tabs {
+    padding: 50px;
+    justify-content: center;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #f54748;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: white;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+

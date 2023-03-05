@@ -1,0 +1,75 @@
+.topnav {
+ 
+  overflow: hidden;
+  text-align: right;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  
+  display: inline-block;
+  color: #f2f2f2;
+  text-align: right;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 15px;
+  
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* comment */
+
+
+
+.nav-item
+{
+  display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
+
+.navbar
+{
+     background-color: #000;
+}
+
+.nav-item a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 18px;
+}
+
+a.active.active {
+    color: #f54748;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.form-control{
+  border-radius: 10px!important;
+}
+.nav-item a:hover {
+     color: #f54748;
+}
+
+
+@media (min-width:448px) {
+  .navbar-expand-lg .navbar-collapse {
+    display: flex!important;
+    flex-direction: row-reverse 
+  }
+}
+
+
+
+

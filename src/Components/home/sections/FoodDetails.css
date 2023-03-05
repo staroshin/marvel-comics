@@ -1,0 +1,41 @@
+.one_food_card{
+
+	box-shadow: none;
+}
+
+.one_food_card h2{
+
+	color:#6c6c6c;
+	font-weight: 600;
+	font-size: 40px;
+}
+
+
+
+
+.card-text {
+ height: auto!important;
+}
+
+
+.one_food_title h1 {
+    font-weight: 800;
+    color: #141414!important;
+  margin-top: 0px; 
+
+  font-size: 60px;
+}
+
+.btn3{
+    color: #f54748;
+    background-color: #ffffff;
+    border-color: #f54748;
+    margin-left: 5px;
+}
+
+.btn-check:focus+.btn-primary, .btn-primary:focus {
+    color: #f54748;
+    background-color: #fff;
+    border-color: #f54748;
+    box-shadow: 0 0 0 0.25rem rgb(49 132 253 / 50%);
+}

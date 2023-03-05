@@ -1,0 +1,82 @@
+.card-body {
+    color: #a7a7a4;
+       background: #ffffff;
+    border-radius: 0px;
+    box-shadow: 5px 5px 16px #00000091;
+}
+
+.old_price{
+    color: #141414;
+    width: 20%;
+    font-size: 12px;
+    text-decoration: line-through;
+    margin-top: 5px;
+}
+.new_price{
+    color: #141414;
+    width: 30%;
+    font-weight: bold;
+    
+}
+
+
+.card-text{
+    height: 20px;
+}
+
+.card-title {
+    margin-bottom: 0.5rem;
+    margin-top: 10px;
+}
+.comics .card-img{
+    height:250px;
+}
+.time_text{
+       font-size: 10px;
+  color: #141414;
+    width: 33%;
+}
+.time_text p{
+    text-align: right;
+        line-height: 28px;
+   
+}
+.icon_des{
+    margin-top: 9px;
+     margin-right: 3px;
+   
+}
+nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    color: #ffffff;
+}
+.slider_card.card-title.h5 {
+
+   font-weight: 600!important;
+    color: #141414!important;
+
+    margin-top: 10px;
+}
+
+@media(width<700px)
+{
+
+
+
+  .custom_card {
+    
+     width: 100%;
+}
+
+
+
+}
+
+.btn2 {
+    background-color: #f54748!important;
+    color: white!important;
+    border: none!important;
+}
+
+

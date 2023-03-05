@@ -1,0 +1,45 @@
+.part9{
+padding: 30px 0;
+	background: #ec1d24;
+
+	
+color: white;
+
+}
+
+.list_itm p{
+	margin-bottom: 5px;
+	font-size: 12px;
+	color: white;
+}
+.list_itm p:hover{
+	
+	font-size: 13px;
+	color:#fdc55e;
+}
+.f_col
+{
+	width: 80px;
+	height: 70px;
+}
+
+.f_col img{
+	width: 100%;
+	height: 100%;
+}
+
+
+
+
+svg.svg-inline--fa.fa-facebook-f:hover{
+    color: blue;
+}
+
+svg.svg-inline--fa.fa-twitter:hover{
+	color: skyblue;
+}
+
+svg.svg-inline--fa.fa-instagram:hover{
+	color: deeppink;
+	
+}

@@ -1,0 +1,442 @@
+body{
+	overflow-x: hidden;
+}
+#home{
+	width: 100%;
+	background: linear-gradient(180deg, rgba(255,248,230,1) 0%, rgba(255,255,255,1) 100%);	
+}
+
+
+.part2 {
+    background: #ec1d24;
+    padding: 90px 0;
+}
+
+.part2 h3{
+	color: white;
+	font-weight: 800;
+}
+
+
+.img1 {
+    margin-right: 0px;
+    /* float: right; */
+    height: 500px;
+    width: 100%;
+}
+
+
+.head{
+	margin-top: 100px;
+
+text-align: center;
+
+
+
+}
+
+
+
+
+
+
+.row1{
+	padding: 5px;
+}
+.row2{
+	padding: 5px;
+}
+
+
+
+.btn1
+{
+
+   padding-right: 20px!important;
+    padding-left: 20px!important;
+    border-color: #ffffff!important;
+    margin-top: 20px;
+    background: #f54748!important;
+    color: #ffffff!important;
+    border-radius: 40px!important;
+}
+
+
+
+
+
+
+
+
+.head2
+{
+	margin: 10px;
+	color: antiquewhite;
+	    text-align: center;
+}
+
+
+
+
+
+
+		   
+
+
+
+.row5{
+	column-gap: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.card-group {
+    display: flex;
+    flex-flow: row wrap;
+    column-gap: 10px;
+}
+
+
+
+
+
+
+
+
+
+.title5 h3{
+    color: black;
+    margin-bottom: 15px;
+    margin-top: 15px;    
+    font-weight: bold;
+    text-align: center;
+}
+
+h5.card-title.layout1{
+	margin-bottom: 0.5rem;
+    text-shadow: 1px 1px 4px black;
+
+}
+
+
+
+
+
+
+
+.row.custom_row
+{
+	padding: 100px;
+	align-items: center;
+}
+.custom_row p
+{
+	color: #A4A4A4;
+}
+
+.custom_row h1
+{
+	color: #141414;
+	font-weight: 800;
+}
+
+
+.custom_img_place{
+
+}
+
+
+
+
+
+
+
+
+
+.custom_row2{
+
+	padding: 60px;
+
+}
+
+.btn2
+{
+
+    color: #111010!important;
+    background-color: #E3E3E3!important;
+    border-color: #111010!important;
+    font-weight: bold!important;
+    border: 1px solid black!important;
+
+   
+    font-size: 15px;
+     
+}
+
+.btn_row{
+
+	position: absolute;
+	bottom: 5px;
+}
+
+
+
+
+
+
+
+.card{
+	border: none!important; 
+    border-radius: 0!important;
+    background-color: transparent!important;
+}
+
+
+
+.s2.card-title{
+	
+	float: left;
+color: white;
+}
+
+
+
+.row_new
+{
+	
+	margin: 10px;
+	background-color: #E3E3E3;
+	border-radius: 20px;
+	align-items: center;
+	
+
+}
+
+.row_new2
+{
+	
+	margin: 10px;
+	background-color: white;
+	border-radius: 20px;
+	align-items: center;
+	
+
+}
+
+
+.photo
+{
+	width:100%;
+	height: 200px;
+}
+
+.part4{
+
+    background: #fff;	
+    width: 100%;
+   
+    display: block;
+  
+   
+
+       color: #141414;
+    padding: 90px 0;
+}
+
+.part4 h3 {
+    font-weight: 800;
+}
+
+
+
+.layout3 p.card-text
+{
+ font-size: 12px;
+ color: black;
+}
+
+.layout4 p.card-text
+{
+ font-size: 10px;
+ color: black;
+}
+
+
+.title6
+{
+	color: white;
+	
+  
+    font-weight: bold;
+    text-align: center;
+}
+
+.part3
+{
+	background: #000;
+	
+	width: 100%;
+	color: white;
+	padding: 90px 0;
+	
+}
+.text-white{color:#fff}
+.part3 h3
+{
+	color: #ec1d24;
+	font-weight: 800;
+	
+}
+
+
+.row_3
+{
+	height: 100vh;
+}
+.part5{
+	 width: 100%;
+ 
+    display: block;
+    background: white;
+}
+
+
+.photo2
+{
+	width:100%;
+	
+	border-radius: 20px;
+}
+
+
+.photo3
+{
+	width:100%;
+	
+	border-radius: 20px;
+	height: 200px;
+}
+
+.photo4
+{
+	border-radius: 20px;
+	
+}
+
+
+.layout4 h3
+{
+	font-weight: 700;
+}
+
+.layout4.card-body {
+    padding: 3rem 0;
+}
+
+.part6
+{
+	background: #F5F5F5;
+}
+
+
+.title7{
+	margin-top: 10px;
+	margin-left: 20px;
+	font-weight: 700;
+}
+
+.part6 p
+{
+	font-size: 10px;
+}
+
+
+
+
+
+
+.list_itm p{
+	margin-bottom: 5px;
+	font-size: 12px;
+	color: #a4a4a4;
+}
+.list_itm p:hover{
+	
+	font-size: 13px;
+	color: white;
+}
+.f_col
+{
+	width: 80px;
+	height: 70px;
+}
+
+.f_col img{
+	width: 100%;
+	height: 100%;
+}
+
+
+
+
+svg.svg-inline--fa.fa-facebook-f:hover{
+    color: blue;
+}
+
+svg.svg-inline--fa.fa-twitter:hover{
+	color: skyblue;
+}
+
+svg.svg-inline--fa.fa-instagram:hover{
+	color: deeppink;
+	
+}
+
+
+@media(width<600px)
+{
+	.row.custom_row {
+     padding: 0px; 
+}
+
+
+
+
+}
+
+.order{
+	    color: #817d7d!important;
+	width: 50px;
+	    margin-top: 5px;
+}
+
+
+
+
+
+.opinion.card-body{
+	background: none!important;
+	box-shadow: none;
+	color: #141414;
+	float: left;
+}
+.opinion h4{
+	font-weight: bold;
+}
+
+@media (min-width:320px) and (max-width: 768px) {
+	#home {
+		padding: 6rem 1rem !important;
+	}
+}
