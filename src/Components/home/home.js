@@ -22,7 +22,7 @@ function Home() {
           <Col md={6}>                                  
           <h1>CREATE AWESOME STUFF <br/> WITH THE WORLD'S</h1>
           <br/>
-          <p>he Marvel Comics API allows developers everywhere to access information about Marvel's vast library of comics—from what's coming up, to 70 years ago.
+          <p>The Marvel Comics API allows developers everywhere to access information about Marvel's vast library of comics—from what's coming up, to 70 years ago.
             </p>
             <Button className="btn1">Order Now</Button> 
           </Col>
