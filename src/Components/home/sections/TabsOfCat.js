@@ -49,7 +49,10 @@ function TabsOfCat() {
   return (
 
     <Container>
+      <div className='p-4'>
+
                  <All/>
+      </div>
     </Container>
   );
 }
