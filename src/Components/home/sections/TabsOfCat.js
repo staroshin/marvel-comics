@@ -49,28 +49,7 @@ function TabsOfCat() {
   return (
 
     <Container>
-    <Tabs
-      id="controlled-tab-example"
-      activeKey={key}
-      onSelect={(k) => setKey(k)}
-      className="mb-3"
-    >
-      <Tab eventKey="all" title="All">
-        
-
-
-
                  <All/>
-      </Tab>
-      <Tab eventKey="pizza" title="Pizza">
-
-         <Pizza/>
-      
-      </Tab>
-      <Tab eventKey="burger" title="Burger">
-          <Burger/>
-      </Tab>
-    </Tabs>
     </Container>
   );
 }
